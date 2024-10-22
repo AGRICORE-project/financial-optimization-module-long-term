@@ -1,0 +1,13 @@
+gurobipy==11.0.0
+matplotlib==3.6.3
+numpy==1.24.1
+pandas==1.5.3
+agricore-sp-models>=0.5.84
+dask
+dask[distributed]
+cloudpickle
+snakeviz
+httpx
+fastapi
+loguru
+python-decouple

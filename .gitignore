@@ -1,0 +1,5 @@
+model/model.ilp
+model.ilp
+__pycache__/
+*.pyc
+*.prof
